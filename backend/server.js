@@ -4,7 +4,7 @@ const axios = require("axios")
 
 const app = express()
 
-const API_KEY = "SUA_API_SHODAN_AQUI"
+const API_KEY = "xHYk3xkzySHkbBzcxjHJ6kAIw41BiqlP"
 
 let devices = []
 
